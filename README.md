@@ -10,3 +10,4 @@ Contributions are welcome.
 | review (verb) | reviewen                 | [wiktionary](https://de.wiktionary.org/wiki/reviewen#:~:text=Herkunft%3A,vom%20englischen%20Verb%20review&text=Sinnverwandte%20W%C3%B6rter%3A,pr%C3%BCfen%2C%20rezensieren%2C%20testen%2C%20%C3%BCberpr%C3%BCfen)|
 | the branch (git) | der Branch | [git](https://git-scm.com/book/de/v2/Git-Branching-Branch-Management)|
 | commit (git, verb) | committen | [git](https://git-scm.com/book/de/v2/Git-Grundlagen-Ungewollte-%C3%84nderungen-r%C3%BCckg%C3%A4ngig-machen)|
+| the commit (git, substantive) | der Commit | [git](https://git-scm.com/book/de/v2/Git-Grundlagen-Ungewollte-%C3%84nderungen-r%C3%BCckg%C3%A4ngig-machen)|
