@@ -11,3 +11,4 @@ Contributions are welcome.
 | the branch (git) | der Branch | [git](https://git-scm.com/book/de/v2/Git-Branching-Branch-Management)|
 | commit (git, verb) | committen | [git](https://git-scm.com/book/de/v2/Git-Grundlagen-Ungewollte-%C3%84nderungen-r%C3%BCckg%C3%A4ngig-machen)|
 | the commit (git, substantive) | der Commit | [git](https://git-scm.com/book/de/v2/Git-Grundlagen-Ungewollte-%C3%84nderungen-r%C3%BCckg%C3%A4ngig-machen)|
+| to merge (verb) | mergen/gemergt | [git](https://git-scm.com/book/de/v2/Git-Branching-Einfaches-Branching-und-Merging)|
