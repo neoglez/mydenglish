@@ -13,3 +13,4 @@ Contributions are welcome.
 | the commit (git, substantive) | Der Commit | [git](https://git-scm.com/book/de/v2/Git-Grundlagen-Ungewollte-%C3%84nderungen-r%C3%BCckg%C3%A4ngig-machen)|
 | to merge (verb) | mergen/gemergt | [git](https://git-scm.com/book/de/v2/Git-Branching-Einfaches-Branching-und-Merging)|
 | the pull request (PR) | Der Pull-Request (PR) | [Atlassian tutorial](https://www.atlassian.com/de/git/tutorials/making-a-pull-request)|
+| the mapping (e.g., port mapping) | Das Mapping | [Dict Leo](https://dict.leo.org/englisch-deutsch/mapping)|
