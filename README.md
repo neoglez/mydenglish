@@ -14,3 +14,5 @@ Contributions are welcome.
 | to merge (verb) | mergen/gemergt | [git](https://git-scm.com/book/de/v2/Git-Branching-Einfaches-Branching-und-Merging)|
 | the pull request (PR) | Der Pull-Request (PR) | [Atlassian tutorial](https://www.atlassian.com/de/git/tutorials/making-a-pull-request)|
 | the mapping (e.g., port mapping) | Das Mapping | [Dict Leo](https://dict.leo.org/englisch-deutsch/mapping)|
+| the response (e.g., HTML response) | Der Response (also Die Response, e.g., in psychology, see www.duden.de) | [A Coding Project](https://www.a-coding-project.de/ratgeber/http/response-codes)|
+| the request (e.g., HTML request) | Der Request | [A Coding Project](https://www.a-coding-project.de/ratgeber/http/response-codes)|
