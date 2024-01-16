@@ -19,4 +19,6 @@ Contributions are welcome.
 | the API (e.g., Application Programming Interface) | Die API | Disscussed at [Reddit](https://www.reddit.com/r/de_EDV/comments/ypp87q/sagt_ihr_die_api_oder_das_api/?rdt=37011) and [Duden](https://www.duden.de/sprachwissen/sprachratgeber/Das-Genus-von-Fremdw%C3%B6rtern)|
 | the overlay (web development) | Das Overlay | [Institut für Software-Ergonomie und Usability AG](https://www.usability.ch/news/uebermaessige-verwendung-overlays.html)|
 | the UX (user experience, web development) | Die UX | [Wikipedia](https://de.wikipedia.org/wiki/User_Experience)|
+| to deploy (verb) | deployen (wurde deployed) | [bitperfect](https://bitperfect.at/blog/deployment)|
+| the deployment | Das Deployment | [bitperfect](https://bitperfect.at/blog/deployment)|
 
