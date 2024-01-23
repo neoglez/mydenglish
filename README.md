@@ -21,4 +21,5 @@ Contributions are welcome.
 | the UX (user experience, web development) | Die UX | [Wikipedia](https://de.wikipedia.org/wiki/User_Experience)|
 | to deploy (verb) | deployen (wurde deployed) | [bitperfect](https://bitperfect.at/blog/deployment)|
 | the deployment | Das Deployment | [bitperfect](https://bitperfect.at/blog/deployment)|
+| the API key | Die API-Key | [bitget](https://www.bitget.com/de/support/articles/12560603797947)|
 
