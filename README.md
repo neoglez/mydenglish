@@ -22,4 +22,5 @@ Contributions are welcome.
 | to deploy (verb) | deployen (wurde deployed) | [bitperfect](https://bitperfect.at/blog/deployment)|
 | the deployment | Das Deployment | [bitperfect](https://bitperfect.at/blog/deployment)|
 | the API key | Die API-Key | [bitget](https://www.bitget.com/de/support/articles/12560603797947)|
+| the release | Das, Der, selten Die Release | [DUDEN](https://www.duden.de/rechtschreibung/Release_Softwareversion)|
 
