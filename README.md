@@ -3,7 +3,7 @@ Collection of english-to-german words (loanwords) used in the context of Infomat
 
 Contributions are welcome.
 
-|English word|German Word (deutsches Wort)|Source/Quelle|
+|English word|German Word (deutsches Wort)|Source (Quelle)|
 | ---------- | -------------------------- |-------------|
 | the issue  | Der Issue                  | [stackexchange](https://german.stackexchange.com/questions/30206/whats-the-right-article-for-issue-in-german)|
 | the commit | Der Commit                 | [wikipedia](https://de.wikipedia.org/wiki/Commit), [reverso](https://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/der+Commit)|
@@ -23,4 +23,5 @@ Contributions are welcome.
 | the deployment | Das Deployment | [bitperfect](https://bitperfect.at/blog/deployment)|
 | the API key | Die API-Key | [bitget](https://www.bitget.com/de/support/articles/12560603797947)|
 | the release | Das, Der, selten Die Release | [DUDEN](https://www.duden.de/rechtschreibung/Release_Softwareversion)|
+| the port | Der Port | [Leo](https://dict.leo.org/englisch-deutsch/Port)|
 
