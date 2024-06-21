@@ -24,4 +24,5 @@ Contributions are welcome.
 | the API key | Die API-Key | [bitget](https://www.bitget.com/de/support/articles/12560603797947)|
 | the release | Das, Der, selten Die Release | [DUDEN](https://www.duden.de/rechtschreibung/Release_Softwareversion)|
 | the port | Der Port | [Leo](https://dict.leo.org/englisch-deutsch/Port)|
+| the loading spinner (a.k.a. throbber ) | Der Lade-Spinner, Loading Spinner, auch Fortschrittsspinner, Aktivitätsindikator, Throbber  | [AppMaster](https://appmaster.io/de/glossary/loading-spinner-de)|
 
