@@ -28,3 +28,4 @@ Contributions are welcome.
 | the port | Der Port | [Leo](https://dict.leo.org/englisch-deutsch/Port)|
 | the loading spinner (a.k.a. throbber ) | Der Lade-Spinner, Loading Spinner, auch Fortschrittsspinner, Aktivitätsindikator, Throbber  | [AppMaster](https://appmaster.io/de/glossary/loading-spinner-de)|
 | notebook (e.g., Jupyter notebook) | Das Notebook | [Wikipedia](https://de.wikipedia.org/wiki/Project_Jupyter)
+| the NAS (Network Attached Storage) | Das NAS | [Galaxus](https://www.galaxus.de/de/page/der-die-oder-das-nas-38238?utm_source=chatgpt.com)
